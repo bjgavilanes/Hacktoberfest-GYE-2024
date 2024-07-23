@@ -1,0 +1,26 @@
+= Hactoberfest 2024
+
+{date} +
+{destinatario_institución} +
+{destionatario} +
+{destinatario_cargo}
+
+{destionatorio},
+
+Espero que este mensaje le encuentre bien. Mi nombre es [Tu nombre], y actualmente soy [tu posición] en [nombre de tu institución]. Me dirijo a usted con el fin de solicitar su apoyo para organizar el evento Hacktoberfest 2024 en nuestras instalaciones.
+
+El Hacktoberfest es una competencia internacional de código abierto organizada por DigitalOcean y GitHub, que se celebra durante todo el mes de octubre. Este evento tiene como objetivo fomentar la colaboración y el aprendizaje en el ámbito del desarrollo de software de código abierto. Durante el Hacktoberfest 2023, participaron más de [insertar número] desarrolladores de todo el mundo, lo que demuestra su creciente popularidad y relevancia.
+
+Creemos que alojar el Hacktoberfest 2024, no solo estaríamos contribuyendo a la comunidad global desarrollo de software de código abierto, sino también ofreciendo una oportunidad invaluable a nuestros estudiantes para aprender, colaborar y aplicar sus habilidades prácticas. Además, este evento podría servir como un catalizador para fomentar la innovación y la creatividad dentro de nuestra institución.
+
+Nuestro equipo está comprometido con garantizar que el evento sea seguro, inclusivo y accesible para todos los interesados. Contamos con experiencia previa en la organización de eventos similares y estamos dispuestos a trabajar en estrecha colaboración con usted para asegurar que el Hacktoberfest 2024 sea un éxito.
+
+Agradeceríamos mucho si pudiera considerar nuestra solicitud y brindarnos el espacio necesario para llevar a cabo esta iniciativa. Estamos abiertos a discutir cualquier detalle adicional o requisitos específicos que pueda tener.
+
+Agradezco de antemano su atención y consideración. Si necesita información adicional o desea discutir esta propuesta más a fondo, no dude en ponerse en contacto conmigo.
+
+Muchas gracias,
+
+{remitente} +
+{remitente_cargo} +
+{remitente_contacto}
