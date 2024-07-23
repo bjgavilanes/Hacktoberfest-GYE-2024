@@ -1,0 +1,5 @@
+====
+*Linux User Group for the Ecuadorian Republic (LUGER)*
+
+Grupo de Usuario de Linux (LUG). Involucrados en la difusión, asistencia y capacitación en el uso de sistemas operativos UNIX para computadoras, personales y profesionales, y servidores.
+====
