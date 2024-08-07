@@ -1,0 +1,22 @@
+## FECHA DE INICIO
+SEMANA DEL 15 AL 19
+
+## FECHA LÍMITE
+AGOSTO 30
+
+## TEXTO CONVOCATORIA
+¡Hola a todos los entusiastas del código abierto!
+
+Estamos emocionados de anunciar nuestro evento para celebrar Hacktoberfest GYE 2024 este año, y queremos invitarlos a ser parte del evento como ponentes destacados.
+
+Si tienes experiencia y pasión por el desarrollo de software abierto, esta es tu oportunidad de compartir tus conocimientos y experiencias con nuestra vibrante comunidad de desarrolladores. Estamos buscando charlas inspiradoras y educativas sobre una variedad de temas relacionados con el código abierto, desde cómo comenzar en proyectos abiertos hasta las mejores prácticas de colaboración y más.
+
+Para aplicar como ponente, te invitamos a completar nuestro formulario de inscripción antes del 30 de Agosto. Por favor, incluye un resumen breve de la charla que te gustaría presentar y cómo tu experiencia puede beneficiar a nuestros asistentes.
+
+No te pierdas la oportunidad de ser parte de este evento enriquecedor y compartir tu pasión por el código abierto con otros apasionados del desarrollo de software.
+
+¡Esperamos con ansias recibir tus propuestas y contar con tu participación en nuestro evento de Hacktoberfest!
+
+¡Saludos cordiales,
+
+Equipo del Hacktoberfest Gye

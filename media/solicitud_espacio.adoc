@@ -1,0 +1,25 @@
+= Hacktoberfest 2024
+
+{destinatario_institución} +
+{destinatario}
+
+{destinatario_nombre},
+
+Espero que este mensaje le encuentre bien. Mi nombre es {remitente}, y actualmente soy {remitente_cargo} en {remitente_institución}. Me dirijo a usted con el fin de solicitar su apoyo para organizar el evento Hacktoberfest 2024 en sus instalaciones.
+
+El Hacktoberfest es una competencia internacional de código abierto organizada por DigitalOcean y GitHub, que se celebra durante todo el mes de Octubre. Este evento tiene como objetivo fomentar la colaboración y el aprendizaje en el ámbito del desarrollo de software de código abierto.
+
+Creemos que al alojar el Hacktoberfest 2024, no solo estaríamos contribuyendo a la comunidad global de desarrollo de software de código abierto, sino también ofreciendo una oportunidad invaluable a sus estudiantes para aprender, colaborar y aplicar sus habilidades. Además, este evento podría servir como un catalizador para fomentar la innovación y la creatividad dentro de su institución.
+
+Nuestro equipo está comprometido con garantizar que el evento sea seguro, inclusivo y accesible para todos los interesados. Contamos con experiencia previa en la organización de eventos similares y estamos dispuestos a trabajar en estrecha colaboración con usted para asegurar que el Hacktoberfest 2024 sea un éxito.
+
+Agradeceríamos mucho si pudiera considerar nuestra solicitud y brindarnos el espacio necesario para llevar a cabo esta iniciativa. Estamos abiertos a discutir cualquier detalle adicional o requisitos específicos que pueda tener.
+
+Agradezco de antemano su atención y consideración. Si necesita información adicional o desea discutir esta propuesta más a fondo, no dude en ponerse en contacto conmigo.
+
+Muchas gracias,
+
+{remitente} +
+{remitente_cargo} +
+{remitente_institución} +
+{remitente_contacto}

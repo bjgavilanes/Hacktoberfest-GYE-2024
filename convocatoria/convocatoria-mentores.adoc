@@ -1,0 +1,40 @@
+## FECHA DE INICIO
+SEMANA DEL 15 AL 19
+
+## FECHA LÍMITE
+AGOSTO 30
+
+## TEXTO CONVOCATORIA
+¡Únete como mentor en el Hacktoberfest y ayúdanos a hacer de octubre un mes increíble para la comunidad de desarrollo de software de código abierto!
+
+¿Qué es el Hacktoberfest?
+El Hacktoberfest es un evento anual que celebra la contribución al código abierto en todo el mundo. Durante el mes de octubre, miles de desarrolladores se reúnen para contribuir a proyectos de código abierto, aprender y compartir conocimientos.
+
+¿Qué buscamos en nuestros mentores?
+Experiencia en desarrollo de software y contribuciones a proyectos de código abierto.
+Pasión por ayudar y guiar a otros en su viaje de contribución al código abierto.
+Habilidades de comunicación efectiva y disposición para interactuar con una comunidad diversa.
+
+Responsabilidades del mentor:
+Guiar a los participantes en el proceso de contribución al código abierto.
+Revisar y dar retroalimentación constructiva sobre las contribuciones realizadas.
+Estar disponible para responder preguntas y ofrecer orientación.
+Fomentar un ambiente inclusivo y colaborativo entre los participantes.
+Beneficios de ser mentor:
+Oportunidad de contribuir al crecimiento y la educación de la comunidad de código abierto.
+Networking con otros mentores y desarrolladores.
+Reconocimiento público como mentor del Hacktoberfest.
+
+
+
+Cómo aplicar:
+Si estás interesado en ser mentor en el Hacktoberfest, por favor regístrate en el siguiente formulario <form_here>
+
+Fecha límite de aplicación: 30 de Agosto de 2024
+
+Esperamos recibir tu solicitud y esperamos trabajar juntos para hacer del Hacktoberfest Gye 2024 una experiencia enriquecedora para todos los participantes.
+
+¡Gracias por tu interés y tu compromiso con la comunidad de código abierto!
+
+Atentamente,
+Equipo del Hacktoberfest Gye

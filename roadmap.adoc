@@ -1,0 +1,80 @@
+= Hacktoberfest 2024: Ruta de Acción
+
+== Accionables
+
+* Convocatoria de mentores y ponentes @kernelchaos
+* Conseguir documentos de solicitudes para sponsors y contactos @kernelchaos
+* Conseguir contacto de Edificio de Empresariales UCSG @kernelchaos
+** Integrar a persona que nos pueda asistir en el tema de comunicación @kernelchaos
+*** Responsabilides del Cargo de Comunicación
+**** Definir calendario de publicación
+**** Definir estrategias y medios de comunicación
+**** Definir aliados estratégicos
+**** Dar seguimiento y asistencia a aliados estratégicos en el cumplimiento del calendario de publicación
+* Recopilar toda la información relevante del Hacktoberfest en un repositorio único @luger
+** Enviarlo al repositorio (https://github.com/FunPythonEC/Hacktoberfest-GYE-2024) @doing
+** Documento de especificación de proyecto
+** Documento de invitación
+** ¿Documento de planificación?
+** Prespuesto general
+* ¿Preguntarle a @aws la posibilidad de presentar el Hacktoberfest en su evento de 5 de agosto?
+** Dependiente del anterior punto. @done
+*** Se prefirió por hacer múltiples eventos. A partir de la segunda semana de Octubre.
+* Buscar contactos de profesores de universidades de interés para que asistan los estudiantes
+
+
+== Planificación y coordinación general:
+
+* Establecer fecha y horario para el evento. @done
+** Se decidió hacer múltiples eventos; a partir de la segunda semana de Octubre.
+* Crear un equipo organizador y asignar responsabilidades.
+** Logística: @luger, @herux
+** Patrocinadores: @luger, @herux
+
+== Logística:
+
+* Identificar el lugar y disponibilidad para llevar a cabo el evento
+* Reservar el lugar.
+* Organizar la disposición del espacio (conexión a internet, etc.).
+* Asegurar la disponibilidad de dispositivos (proyectores, regletas).
+
+== Comunicación y marketing (Al menos un responsable):
+
+* Crear y difundir material promocional del evento.
+* Desarrollar una estrategia de redes sociales y marketing digital.
+* Contactar con medios locales para difundir el evento.
+
+== Programa del evento:
+
+* Invitar y confirmar a los speakers y mentores.
+* Elaborar un cronograma detallado de actividades.
+
+== Talleres y actividades:
+
+* Diseñar talleres prácticos
+** Enfocarse en enseñar a los participantes cómo contribuir en el Hacktoberfest.
+* Preparar material educativo y ejemplos prácticos.
+* Coordinar sesiones de mentoría para apoyar a los participantes.
+
+== Sponsors y financiamiento:
+
+* Identificar posibles patrocinadores locales o empresas interesadas en apoyar el evento.
+* Preparar paquetes de patrocinio y negociar acuerdos.
+* Agradecer y reconocer públicamente a los patrocinadores.
+
+== Registro y participación:
+
+* Configurar un formulario de registro para los participantes
+* Gestionar la inscripción y la asistencia al evento.
+* Preparar materiales de bienvenida y kits para los participantes.
+
+== Seguimiento y evaluación:
+
+* Recopilar feedback de los participantes y evaluar la satisfacción del evento.
+* Analizar métricas de participación y contribución a Hacktoberfest.
+* Preparar un informe final con resultados y recomendaciones para futuros eventos (memoria del evento).
+
+== Post-evento:
+
+* Enviar agradecimientos y certificados a asistentes, mentores y patrocinadores.
+* Evaluar el impacto del evento en la comunidad local y en la participación en Hacktoberfest.
