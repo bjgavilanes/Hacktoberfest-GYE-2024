@@ -1,3 +1,128 @@
-====
-include::organizadores/luger.adoc[]
-====
+****
+*Comunidad*
+   Area51
+
+*Coordinador*
+ Joseph Páez
+
+*Descripción*
+ Comunidad de seguridad informática, tecnologías emergentes y emprendimiento.
+****
+
+****
+*Comunidad*
+   AWS
+
+*Coordinador*
+ Alexis Apolo
+
+*Descripción*
+ Somos un grupo de personas apasionadas en aprender todo sobre Amazon y a implementar una infraestructura, escalables y de alta disponibilidad usando los servicios cloud de Amazon Web Services. ¡Sí todo esto te apasiona únete a nuestro grupo!
+****
+
+****
+*Comunidad*
+   FunPython
+
+*Coordinador*
+ Jhon Merchán
+
+*Descripción*
+ Comunidad y red de innovación que busca unir mentes creativas, apasionadas y curiosas para aprender y compartir experiencias en la construcción de ideas a prototipos.
+****
+
+****
+*Comunidad*
+   Kokoa
+
+*Coordinador*
+ Yiam Rodríguez
+
+*Descripción*
+ KOKOA, es la Comunidad de Software Libre de la ESPOL, a través del cual buscamos promover en nuestra universidad y en la sociedad el uso y distribución del software libre.
+
+Con la firme convicción de que el software debe ser un recurso libre y accesible para todos.
+****
+
+****
+*Comunidad*
+   R-Ladies
+
+*Coordinador*
+ Zulemma Bazurto
+
+*Descripción*
+ Somos un capítulo local de la organización mundial R-Ladies Global que tiene por finalidad promover la diversidad de género en la comunidad de R.
+
+Nuestra meta es apoyar, alentar y empoderar a mujeres entusiastas interesadas en desarrollar habilidades colectivas e individuales de programación en R promoviendo el aprendizaje colaborativo, la réplica del conocimiento, el uso de software libre y la construcción de una red de usuari@s, novat@s, desarrollador@s y/o expert@s en R.
+
+Al ser una iniciativa social, todos los eventos a realizarse son gratuitos. En dichos eventos puede participar cualquier persona interesada en la comunidad R, priorizando la participación femenina.
+****
+
+****
+*Comunidad*
+   Wordpres Gye
+
+*Coordinador*
+ Jorge Ortega
+
+*Descripción*
+ WordPress Guayaquil es una comunidad que difunde conocimiento del ecosistema WordPress y su filosofía de código abierto. Conversamos sobre desarrollo, marketing, diseño, negocios, seguridad informática y temas relacionados a lo digital.
+****
+
+****
+*Comunidad*
+   HerUX
+
+*Coordinador*
+ Olga Tohabanda Duchi
+
+*Descripción*
+ «Soms la primera comunidad de Mujeres Profesionales en la Experiencia del Usuario de Guayaquil - Ecuador»
+****
+
+****
+*Comunidad*
+   LUGER
+
+*Coordinador*
+ Brayen Gavilanes
+
+*Descripción*
+ Linux User Group for the Ecuadorian Republic (LUGER)
+
+Grupo de Usuario de Linux (LUG). Involucrados en la difusión, asistencia y capacitación en el uso de sistemas operativos UNIX para computadoras, personales y profesionales, y servidores.
+****
+
+****
+*Comunidad*
+   Kernel Chaos
+
+*Coordinador*
+ David Cortez
+
+*Descripción*
+ Kernel Chaos es un espacio hacker comunitario dedicado a fomentar la colaboración y el aprendizaje entre entusiastas de Linux y FOSS. Nuestra visión es crear un entorno donde individuos apasionados puedan explorar, aprender y contribuir activamente a proyectos de software libre y de código abierto. Queremos que cada miembro se sienta inspirado y empoderado para desarrollar nuevas habilidades y compartir su conocimiento con otros, promoviendo así una cultura de innovación y cooperación.
+****
+
+****
+*Comunidad*
+   Fundación OpenLabEc
+
+*Coordinador*
+ Maria Encalada
+
+*Descripción*
+ La Fundación Openlab Ecuador es el laboratorio ciudadano de tecnologías y cultura libre, dedicado a promover la experimentación, la participación ciudadana, la educación y la creatividad, en apoyo de las comunidades de Software Libre, Conocimiento Abierto y Derechos Digitales en el Ecuador y Latinoamérica, por medio de actividades en pro del bien común, y por una economía de conocimiento y creatividad.
+****
+
+****
+*Comunidad*
+   Python Ecuador
+
+*Coordinador*
+ Maria Encalada
+
+*Descripción*
+ Difundiendo Python y descentralizando el conocimiento. Organizando eventos libres y gratuitos en todo el país.
+****
