@@ -1,0 +1,58 @@
+= Hacktoberfest 2024: Solicitud de Apoyo
+Equipo Hacktoberfest
+
+== Hacktoberfest 2024
+
+=== ¿Qué es el Hacktoberfest?
+
+La Hacktoberfest es un evento anual celebrado principalmente por las comunidades de software libre a nivel mundial. Se enfoca en promover el desarrollo, la colaboración entre programadores y contribuyentes de proyectos de software libre.
+
+La idea surgió a partir de una campaña promovida por DigitalOcean, GitHub, y otros actores del ecosistema de código abierto en 2015. El evento originalmente se llamaba "Hacktoberfest" y se basaba en el Oktoberfest, una tradicional celebración alemana.
+
+El día 19 de Octubre, se celebrará el Hacktoberfest 2024 Guayaquil, realizado por diversas comunidades de software y cultura libre en Guayaquil. Lograremos una convocatoria de a partir de 100 asistentes, en ese día único; además de los otros diversos eventos de acompañamiento para estas fechas, como el Día del Programador, 13 de septiembre, o al AWS Community Day y anunciamiento del Hacktoberfest, 5 de octubre.
+
+=== Comunidades organizadoras
+
+==== ¿Quiénes somos?
+
+Somos una coalición de comunidades de software y cultura libre. Nuestro objetivo en común es compartir las herramientas, conocimientos y otros procesos y procedimientos relevantes.
+
+Las comunidades de software y cultura libre ofrecen oportunidades para aprender nuevas tecnologías, programación y otros conocimientos útiles. En estas comunidades, puedes encontrar a otras personas que compartan tus pasatiempos y entusiasmos. Además, puedes participar en proyectos de código abierto o contribuir a la creación de software y contenido bajo licencia libre.
+
+include::../organizadores.adoc[]
+
+== ¿Qué ofrecemos?
+
+Aquí, encontrará una tabla que detalla los niveles de patrocinio disponibles:
+
+[%autowidth.stretch,stripes=odd]
+|===
+|Nivel de Auspicio |Monto |Beneficios
+
+|Diamante
+|$550 o más
+|Reconocimiento destacado como auspiciador principal al inicio, intermedios y final del evento. +
+Logotipo de su organización en los materiales promocionales. +
+Mención especial en nuestras redes sociales y sitio web. +
+Oportunidad de colocar 2 RollUps y material publicitario.
+
+|Oro
+|$500
+|Reconocimiento destacado como auspiciador principal al inicio y final del evento. +
+Logotipo de su organización en los materiales promocionales. +
+Mención en nuestras redes sociales y sitio web. +
+Oportunidad de colocar 1 RollUp y material publicitario.
+
+|Plata
+|$450
+|Reconocimiento destacado como auspiciador principal al inicio y final del evento. +
+Mención en nuestras redes sociales. +
+Logotipo de su organización en los materiales promocionales. +
+Oportunidad de colocar material publicitario.
+
+|Bronce
+|$300
+|Reconocimiento como auspiciador en el evento. +
+Logotipo de su organización en los materiales promocionales. +
+Mención en nuestras redes sociales.
+|===
