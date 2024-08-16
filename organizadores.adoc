@@ -1,3 +1,95 @@
-====
-include::organizadores/luger.adoc[]
-====
+****
+*Comunidad*
+   Area51
+
+*Coordinador*
+ Joseph Páez
+****
+
+****
+*Comunidad*
+   AWS
+
+*Coordinador*
+ Alexis Apolo
+****
+
+****
+*Comunidad*
+   FunPython
+
+*Coordinador*
+ Jhon Merchán
+****
+
+****
+*Comunidad*
+   Kokoa
+
+*Coordinador*
+ Yiam Rodríguez
+****
+
+****
+*Comunidad*
+   R-Ladies
+
+*Coordinador*
+ Zulemma Bazurto
+****
+
+****
+*Comunidad*
+   Wordpres Gye
+
+*Coordinador*
+ Jorge Ortega
+****
+
+****
+*Comunidad*
+   HerUX
+
+*Coordinador*
+ Olga Tohabanda Duchi
+****
+
+****
+*Comunidad*
+   LUGER
+
+*Coordinador*
+ Brayen Gavilanes
+****
+
+****
+*Comunidad*
+   Kernel Chaos
+
+*Coordinador*
+ David Cortez
+****
+
+****
+*Comunidad*
+   Fundación OpenLabEc
+
+*Coordinador*
+ Maria Encalada
+****
+
+****
+*Comunidad*
+   Python Ecuador
+
+*Coordinador*
+ Maria Encalada
+****
+
+****
+*Comunidad*
+   Phycom ESPOL
+
+*Coordinador*
+ Euro Criollo
+****
