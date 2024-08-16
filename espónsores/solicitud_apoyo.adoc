@@ -53,6 +53,9 @@ Aquí, encontrará una tabla que detalla los niveles de patrocinio disponibles:
 |Reconocimiento destacado como auspiciador principal al inicio, intermedios y final del evento. +
 Logotipo de su organización en los materiales promocionales. +
 Mención especial en nuestras redes sociales y sitio web. +
+Un espacio tipo stand dentro de las instalaciones del Hacktoberfest +
+Prioridad para postular un speaker dentro de los estatus del Hacktoberfest +
+Posibilidad de realizar una actividad o cuña publicitaria de 5 minutos durante las charlas del Hacktoberfest +
 Oportunidad de colocar 2 RollUps y material publicitario.
 
 |Oro
@@ -60,6 +63,7 @@ Oportunidad de colocar 2 RollUps y material publicitario.
 |Reconocimiento destacado como auspiciador principal al inicio y final del evento. +
 Logotipo de su organización en los materiales promocionales. +
 Mención en nuestras redes sociales y sitio web. +
+Un espacio tipo stand dentro de las instalaciones del Hacktoberfest +
 Oportunidad de colocar 1 RollUp y material publicitario.
 
 |Plata
