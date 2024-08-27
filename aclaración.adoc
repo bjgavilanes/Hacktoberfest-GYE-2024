@@ -1,0 +1,10 @@
+= Hacktoberfest 2024
+:compress:
+:pdf-page-size: [421pt, 421pt]
+:pdf-page-margin: [1in, 0.5in]
+:nofooter:
+:page-background-image: image:hacktoberfest_421pt_bg.png[]
+
+El proyecto Hacktoberfest 2024 Guayaquil es un evento anual celebrado en la ciudad de Guayaquil, Ecuador, con el objetivo de promover el desarrollo de software libre y la colaboración entre programadores y contribuyentes de proyectos de código abierto. A continuación, se presentan las aclaraciones importantes sobre el proyecto.
+
+El equipo organizador del Hacktoberfest 2024 Guayaquil es una coalición apolitica, ciudadana, de voluntariado independiente de múltiples comunidades tecnológicas. Recibimos patrocinio y donaciones de personas naturales y jurídicas para organizar este evento, celebrado el 19 de Octubre.
