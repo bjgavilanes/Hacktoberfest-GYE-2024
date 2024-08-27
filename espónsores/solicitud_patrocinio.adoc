@@ -1,5 +1,6 @@
-= Hacktoberfest 2024: Solicitud de Apoyo
-:page-background-image: image:membrete_hacktoberfest.png[]
+= Hacktoberfest 2024: Solicitud de Patrocinio
+:front-cover-image: image:../recursos/cover_background.jpg[]
+:page-background-image: image:../recursos/membrete_hacktoberfest.png[]
 :nofooter:
 
 == ¿Qué es el Hacktoberfest?
@@ -9,7 +10,7 @@
 
 {saludo},
 
-La Hacktoberfest es un evento anual celebrado principalmente por las comunidades de software libre a nivel mundial. Se enfoca en promover el desarrollo, la colaboración entre programadores y contribuyentes de proyectos de software libre.
+El Hacktoberfest es un evento anual celebrado principalmente por las comunidades de software libre a nivel mundial. Se enfoca en promover el desarrollo, la colaboración entre programadores y contribuyentes de proyectos de software libre.
 
 La idea surgió a partir de una campaña promovida por DigitalOcean, GitHub, y otros actores del ecosistema de código abierto en 2015. El evento originalmente se llamaba "Hacktoberfest" y se basaba en el Oktoberfest, una tradicional celebración alemana.
 
@@ -49,17 +50,17 @@ Aquí, encontrará una tabla que detalla los niveles de patrocinio disponibles:
 |Nivel de Auspicio |Monto |Beneficios
 
 |Diamante
-|$550 o más
+|$450 o más
 |Reconocimiento destacado como auspiciador principal al inicio, intermedios y final del evento. +
 Logotipo de su organización en los materiales promocionales. +
 Mención especial en nuestras redes sociales y sitio web. +
 Un espacio tipo stand dentro de las instalaciones del Hacktoberfest +
 Prioridad para postular un speaker dentro de los estatus del Hacktoberfest +
-Posibilidad de realizar una actividad o cuña publicitaria de 5 minutos durante las charlas del Hacktoberfest +
+Acceso a la base de datos de profesionales, estudiantes, y otros relevantes, registrados o ponentes, del Hacktoberfest +
 Oportunidad de colocar 2 RollUps y material publicitario.
 
 |Oro
-|$500
+|$300
 |Reconocimiento destacado como auspiciador principal al inicio y final del evento. +
 Logotipo de su organización en los materiales promocionales. +
 Mención en nuestras redes sociales y sitio web. +
@@ -67,20 +68,15 @@ Un espacio tipo stand dentro de las instalaciones del Hacktoberfest +
 Oportunidad de colocar 1 RollUp y material publicitario.
 
 |Plata
-|$450
+|$250
 |Reconocimiento destacado como auspiciador principal al inicio y final del evento. +
 Mención en nuestras redes sociales. +
 Logotipo de su organización en los materiales promocionales. +
 Oportunidad de colocar material publicitario.
 
 |Bronce
-|$300
+|$100
 |Reconocimiento como auspiciador en el evento. +
 Logotipo de su organización en los materiales promocionales. +
 Mención en nuestras redes sociales.
 |===
-
-== Comunidades organizadoras
-
-include::../organizadores.adoc[]
-

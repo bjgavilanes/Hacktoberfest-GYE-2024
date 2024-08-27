@@ -1,5 +1,0 @@
-extends: default
-page:
-  layout: portrait
-  margin: [1.75in, 1in, 1.75in, 1in]
-  size: a4
