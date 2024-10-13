@@ -1,0 +1,7 @@
+= Hacktoberfest Guayaquil 2024: Cronograma
+:pdf-page-layout: landscape
+
+[%header,format=csv]
+|===
+include::cronograma.csv[]
+|===
